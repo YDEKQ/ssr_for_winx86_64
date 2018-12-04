@@ -2,7 +2,7 @@
 
 先安装python
 
-适用windows 64位系统
+适用windows 64位系统，支持chacha20等高级算法
 
 配置文件根目录user-config.json
 
