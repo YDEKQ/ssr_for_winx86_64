@@ -2,7 +2,7 @@
 
 先安装python
 
-针对windows 64位系统
+适用windows 64位系统
 
 配置文件根目录user-config.json
 
